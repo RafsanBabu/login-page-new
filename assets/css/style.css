@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
 body,
 html {
     height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-family: Mouse-500;
 }
 
 .login-page-area {
@@ -58,6 +64,7 @@ button {
     background-color: #FFF;
     color: #444;
     border-radius: 5px;
+    font-family: Mouse-600;
 }
 
 .sign-up-parafraph {
@@ -65,4 +72,21 @@ button {
     padding: 8px;
     font-weight: 600;
     text-align: center;
+    font-family: Mouse-600;
+}
+
+.link,
+span {
+    text-decoration: underline;
+    font-style: italic;
+    cursor: pointer;
+}
+
+.link {
+    margin-left: 25%;
+}
+
+input:focus {
+    border-left: 1px solid #696969;
+    color: #696969;
 }
