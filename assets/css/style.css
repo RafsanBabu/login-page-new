@@ -10,7 +10,7 @@ h2 {
 }
 
 .login-page-area {
-    background-image: url('../images/bg/bg\ \(3\).jpg');
+    background-image: url('../images/bg/bg\ \(1\).jpg');
     height: 100%;
     /* Center and scale the image nicely */
     background-position: center center;
@@ -23,6 +23,7 @@ h2 {
     text-align: center;
     border-bottom-right-radius: 150px;
     border-bottom-left-radius: 150px;
+    opacity: 1 !important;
 }
 
 .f-item {
