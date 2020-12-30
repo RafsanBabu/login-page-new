@@ -76,23 +76,11 @@ button {
     font-family: Mouse-600;
 }
 
-.sign-up-parafraph {
-    width: auto;
-    padding: 8px;
-    font-weight: 600;
-    text-align: center;
-    font-family: Mouse-600;
-}
-
-.link,
+.forget-password-link,
 span {
     text-decoration: underline;
     font-style: italic;
     cursor: pointer;
-}
-
-.link {
-    margin-left: 35%;
 }
 
 input:focus {
