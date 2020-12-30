@@ -57,12 +57,21 @@ button {
 }
 
 .login-button button {
+    transition: all .3s ease-in-out;
+}
+
+.login-button button:hover {
+    background-color: orangered;
+    color: white;
+}
+
+.login-button button {
     width: 100%;
     margin-top: 10px;
     padding: 8px;
     font-weight: 600;
     background-color: #FFF;
-    color: #444;
+    color: #696969;
     border-radius: 5px;
     font-family: Mouse-600;
 }
