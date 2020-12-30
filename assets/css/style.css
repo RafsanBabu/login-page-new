@@ -11,8 +11,8 @@ h2 {
 
 .login-page-area {
     height: 100%;
-    /*background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(23, 21, 23, 0.78)), url('../images/bg/ilya-pavlov-IcclLmLQuw8-unsplash.jpg');*/
-    background-image: url('../images/bg/ilya-pavlov-IcclLmLQuw8-unsplash.jpg');
+    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(23, 21, 23, 0.78)), url('../images/bg/bg\ \(4\).jpg');
+    /*background-image: url('../images/bg/ilya-pavlov-IcclLmLQuw8-unsplash.jpg');*/
     height: 100vh;
     /* Center and scale the image nicely */
     background-position: center center;
